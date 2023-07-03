@@ -16,6 +16,10 @@ app.use(cors({origin:true}))
 app.use(express.json());
 app.use(express.urlencoded({extended:false}));
 
+app.get("/", (req, res) => {
+    res.status(200).send("Mentor-Student_Assigning API by Nivetha is running successfully!");
+  });
+
 
 try{
     con.on('open', () => {
