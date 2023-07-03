@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "649bd2ee7d2337dcf8f23d0f"
+  },
+  "name": "Manikandan",
+  "roll": "1",
+  "class": "GuviB46",
+  "subjects": [
+    "React",
+    "Node js",
+    "MongoDB"
+  ],
+  "gender": "Male",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "649bdbbb7d2337dcf8f23d24"
+  },
+  "name": "Rajalakshmi",
+  "roll": "2",
+  "class": "GuviB47",
+  "subjects": [
+    "UI-UX"
+  ],
+  "gender": "Female",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "649bdc3f7d2337dcf8f23d26"
+  },
+  "name": "Bharathi",
+  "roll": "3",
+  "class": "GuviB45",
+  "subjects": [
+    "Python",
+    "Data science"
+  ],
+  "gender": "Male",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "649bdc897d2337dcf8f23d28"
+  },
+  "name": "Jeeva",
+  "roll": "4",
+  "class": "GuviB49",
+  "subjects": [
+    "MARN"
+  ],
+  "gender": "Female",
+  "__v": 0
+}]

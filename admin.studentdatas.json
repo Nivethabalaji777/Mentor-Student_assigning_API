@@ -1,0 +1,179 @@
+[{
+  "_id": {
+    "$oid": "649bca947d2337dcf8f23cf9"
+  },
+  "name": "Nivetha",
+  "roll": "101",
+  "class": "GuviB46",
+  "registered_on": {
+    "$date": "2023-06-28T05:36:29.509Z"
+  },
+  "subjects": [
+    "React",
+    "Node js",
+    "MongoDB"
+  ],
+  "gender": "Female",
+  "contact_no": "9876541230",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "649bcca47d2337dcf8f23d03"
+  },
+  "name": "Saro",
+  "roll": "106",
+  "class": "GuviB49",
+  "registered_on": {
+    "$date": "2023-06-28T05:36:29.509Z"
+  },
+  "subjects": [
+    "MARN"
+  ],
+  "gender": "Female",
+  "contact_no": "9678540213",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "649bcce87d2337dcf8f23d05"
+  },
+  "name": "Gowtham",
+  "roll": "107",
+  "class": "GuviB49",
+  "registered_on": {
+    "$date": "2023-06-28T05:36:29.509Z"
+  },
+  "subjects": [
+    "MARN"
+  ],
+  "gender": "Male",
+  "contact_no": "8790540213",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "649bcdb07d2337dcf8f23d07"
+  },
+  "name": "Nithi",
+  "roll": "108",
+  "class": "GuviB45",
+  "registered_on": {
+    "$date": "2023-06-28T05:36:29.509Z"
+  },
+  "subjects": [
+    "Python",
+    "Data science"
+  ],
+  "gender": "Male",
+  "contact_no": "8620540213",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "649bcdf77d2337dcf8f23d09"
+  },
+  "name": "Thariga",
+  "roll": "109",
+  "class": "GuviB45",
+  "registered_on": {
+    "$date": "2023-06-28T05:36:29.509Z"
+  },
+  "subjects": [
+    "Python",
+    "Data science"
+  ],
+  "gender": "Female",
+  "contact_no": "6820540213",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "649bce2d7d2337dcf8f23d0b"
+  },
+  "name": "Sai",
+  "roll": "110",
+  "class": "GuviB45",
+  "registered_on": {
+    "$date": "2023-06-28T05:36:29.509Z"
+  },
+  "subjects": [
+    "Python",
+    "Data science"
+  ],
+  "gender": "Male",
+  "contact_no": "9820540213",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "649bd6b97d2337dcf8f23d15"
+  },
+  "name": "Saranya",
+  "roll": "102",
+  "class": "GuviB46",
+  "registered_on": {
+    "$date": "2023-06-28T05:36:29.509Z"
+  },
+  "subjects": [
+    "React",
+    "Node js",
+    "MongoDB"
+  ],
+  "gender": "Female",
+  "contact_no": "9876541203",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "649bd7577d2337dcf8f23d18"
+  },
+  "name": "Balaji",
+  "roll": "103",
+  "class": "GuviB46",
+  "registered_on": {
+    "$date": "2023-06-28T05:36:29.509Z"
+  },
+  "subjects": [
+    "React",
+    "NodeJs",
+    "MongoDB"
+  ],
+  "gender": "Male",
+  "contact_no": "8976541203",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "649bdab97d2337dcf8f23d1e"
+  },
+  "name": "Karthick",
+  "roll": "104",
+  "class": "GuviB47",
+  "registered_on": {
+    "$date": "2023-06-28T05:36:29.509Z"
+  },
+  "subjects": [
+    "UI-UX"
+  ],
+  "gender": "Male",
+  "contact_no": "8776541203",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "649bdaee7d2337dcf8f23d21"
+  },
+  "name": "Arjith",
+  "roll": "105",
+  "class": "GuviB47",
+  "registered_on": {
+    "$date": "2023-06-28T05:36:29.509Z"
+  },
+  "subjects": [
+    "UI-UX"
+  ],
+  "gender": "Male",
+  "contact_no": "9678541203",
+  "__v": 0
+}]
